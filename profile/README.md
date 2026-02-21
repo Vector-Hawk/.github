@@ -4,8 +4,6 @@
 
 We are a team of four developers who specialize in turning ideas into working systems — fast, clean, and scalable.
 
----
-
 ## Our Mission
 
 To design and ship technically sound solutions under competitive constraints while maintaining production-grade standards.
