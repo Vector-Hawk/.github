@@ -9,10 +9,8 @@ We are a team of four developers who specialize in turning ideas into working sy
 ## Our Mission
 
 To design and ship technically sound solutions under competitive constraints while maintaining production-grade standards.
-
 Hackathons aren’t just events for us — they’re execution arenas.
 
----
 
 ## What We Build
 
@@ -24,7 +22,6 @@ Hackathons aren’t just events for us — they’re execution arenas.
 
 Every repository here represents a sprint of focused engineering effort.
 
----
 
 ## How We Work
 
@@ -42,8 +39,6 @@ We prioritize:
 - Performance efficiency  
 - Real-world usability  
 
----
-
 ## Tech Stack
 
 Depending on project scope, we work with:
@@ -55,26 +50,11 @@ Depending on project scope, we work with:
 - Firebase / Supabase  
 - Modern deployment pipelines  
 
----
-
-## Why “Vector Hawk”?
-
-Vector represents precision and direction.  
-Hawk represents clarity, speed, and competitive focus.
-
-We move with intent.  
-We build with discipline.  
-We ship with accuracy.
-
----
-
 ## Ongoing Focus
 
 - Competitive hackathon participation  
 - Applied AI problem-solving  
 - Scalable system design  
 - Product-oriented engineering  
-
----
 
 **Small team. Sharp focus. Relentless execution.**
